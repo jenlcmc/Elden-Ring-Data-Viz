@@ -10,6 +10,7 @@
    -  Deep analysis weapons
    -  Bosses
    -  More data
+   -  Invaders
 
 - link to note book
   - [Notebook](https://github.com/jenlcmc/Elden-Ring-Data-Viz/blob/main/elden-ring-data/notebook.md)
