@@ -12,4 +12,4 @@
    -  More data
 
 - link to note book
-  - [Notebook]([https://www.google.com "Google's Homepage](https://github.com/jenlcmc/Elden-Ring-Data-Viz/blob/main/elden-ring-data/notebook.md)https://github.com/jenlcmc/Elden-Ring-Data-Viz/blob/main/elden-ring-data/notebook.md")
+  - [Notebook](https://github.com/jenlcmc/Elden-Ring-Data-Viz/blob/main/elden-ring-data/notebook.md)
