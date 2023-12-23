@@ -1,5 +1,10 @@
-# Elden-Ring-Data-Viz
+# Gaming Data Visualization
 
+## Steam Data Visualization 
+- Overall trend of Steam data
+- Main goal: find which genre is depend on the Metacritic score the most by using data viz techniques
+
+## Elden Ring Data Viz
 -  No more maidenless
 
 -  Done list:
